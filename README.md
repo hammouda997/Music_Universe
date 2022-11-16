@@ -5,13 +5,13 @@ Le monde des musiciens, dans un seul site web .
 ## Ecouter dû la music avec les lyrics in réal time .
 ## Chater avec autre personne et jouer le karaoké ( calcul du score et affichage du lyric en appel vidéo).
 ## Espace Shop pour l'achat et vente d'instruments utilisés ou noeuf .
-##Partie admin pour gérer les utilisateurs et les playlists ( track music inclus).
+## Partie admin pour gérer les utilisateurs et les playlists ( track music inclus).
 # Technologies  
 ## ReactJs 
-ExpressJS
-NodeJS
-MongoDB
-FireBase
-Typescript
-JavaScript
-Python
+## ExpressJS
+## NodeJS
+## MongoDB
+## FireBase
+## Typescript
+## JavaScript
+## Python
